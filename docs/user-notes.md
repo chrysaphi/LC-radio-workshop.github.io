@@ -60,7 +60,7 @@ These are the things that are useful to know before you start, organised by inst
 * FITS: [cdn.obs-nancay.fr](https://cdn.obs-nancay.fr/repository/nda/newroutine/soleil/)
 * No Fido support yet. You can load files manually with `maser4py` or with `cdflib`/`spacepy`.
 
-### ORFEE (ground based, 144 to 1000 MHz)
+### ORFEES (ground based, 144 to 1000 MHz)
 
 * Quicklooks: [secchirh.obspm.fr](https://secchirh.obspm.fr/spip.php?article11).
 * Data download is manual via [rsdb.obs-nancay.fr](https://rsdb.obs-nancay.fr/) (requires a login).
